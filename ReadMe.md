@@ -21,5 +21,5 @@ Available in .ipython and .py script.
 	-(Optional)Set a default location in location.py
 	-(Required)Make sure folder specified exists
 	-(Required)Make sure image is in jpeg and is numbered like 1.jpeg 2.jpeg, etc
-	-Run the script
+	-Run the ocr in your prefered method
 ```
