@@ -1,1 +1,4 @@
-location = "/home/amanbp/GitHub/register_number_extractor/images/"
+# Example:
+# location = "/home/amanbp/GitHub/register_number_extractor/images/"
+
+location = 
