@@ -6,7 +6,7 @@ Available in .ipython and .py script.
 ## Requirements:
 ```
 	-Python 3
-    -Py Tesseract
+	-Py Tesseract
 ```
 
 ## Working on:
@@ -17,9 +17,9 @@ Available in .ipython and .py script.
 ## To run:
 ```
 	-Download repo
-    -Install requirements from reequirements.txt
-    -(Optional)Set a default location in location.py
-    -(Required)Make sure folder specified exists
-    -(Required)Make sure image is in jpeg and is numbered like 1.jpeg 2.jpeg, etc
-    -Run the script
+	-Install requirements from requirements.txt
+	-(Optional)Set a default location in location.py
+	-(Required)Make sure folder specified exists
+	-(Required)Make sure image is in jpeg and is numbered like 1.jpeg 2.jpeg, etc
+	-Run the script
 ```
