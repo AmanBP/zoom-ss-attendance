@@ -1,6 +1,8 @@
 # Zoom Mobile App Screenshots to Attendance script
 Can be used to convert register numbers in the zoom-mobile app participant's list screenshots to numbers displayed as an array.
 
+ITS AN OCR
+
 Available in .ipython and .py script.
 
 ## Requirements:
